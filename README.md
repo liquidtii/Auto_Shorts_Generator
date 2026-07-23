@@ -12,6 +12,9 @@
   <img src="assets/demo3.png" width="32%" />
 </p>
 
+
+<img width="561" height="309" alt="image" src="https://github.com/user-attachments/assets/fcced461-11ea-484d-8526-4069d65cdf99" />
+
 An automated Python tool that takes a long-form video, identifies the most engaging highlights ("hooks"), and automatically edits them into viral short-form videos (TikTok, YouTube Shorts, Instagram Reels).
 
 ## ✨ Features
