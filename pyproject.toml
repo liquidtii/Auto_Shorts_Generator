@@ -1,0 +1,32 @@
+[project]
+name = "shorts-generator"
+version = "0.1.0"
+description = "Auto Shorts Generator"
+requires-python = ">=3.12, <3.14"
+dependencies = [
+    "moviepy==1.0.3",
+    "openai-whisper",
+    "opencv-python",
+    "google-generativeai",
+    "pillow",
+    "rich",
+    "torch",
+    "openai",
+    "faster-whisper",
+    "numba>=0.59.0",
+    "numpy<2.0.0",
+]
+
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/nightly/cu128"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch" }
+
+[tool.uv]
+prerelease = "allow"
+environments = [
+    "sys_platform == 'win32'"
+]
