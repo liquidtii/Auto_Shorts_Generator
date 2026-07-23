@@ -2,9 +2,9 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/auto-shorts-generator.svg?style=social&label=Star)](https://github.com/yourusername/auto-shorts-generator)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/auto-shorts-generator.svg?style=social&label=Star)](https://github.com/liquidtii/Auto_Shorts_Generator)
 
-*Read this in other languages: [English](README.md) | [한국어](README.ko.md).*
+*Read this in other languages: [English](README.md) | [KR](README.ko.md).*
 
 <p align="center">
   <img src="assets/demo1.png" width="32%" />
