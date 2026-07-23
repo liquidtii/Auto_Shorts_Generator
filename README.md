@@ -50,8 +50,8 @@ This project uses [uv](https://github.com/astral-sh/uv) for lightning-fast Pytho
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/auto-shorts-generator.git
-   cd auto-shorts-generator
+   git clone https://github.com/liquidtii/Auto_Shorts_Generator.git
+   cd Auto_Shorts_Generator
    ```
 
 2. Install dependencies (this will automatically create a virtual environment and install packages using `pyproject.toml` / `uv.lock`):
