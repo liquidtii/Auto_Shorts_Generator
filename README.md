@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/auto-shorts-generator.svg?style=social&label=Star)](https://github.com/liquidtii/Auto_Shorts_Generator)
+[![GitHub stars](https://img.shields.io/github/stars/liquidtii/Auto_Shorts_Generator.svg?style=social&label=Star)](https://github.com/liquidtii/Auto_Shorts_Generator)
 
 *Read this in other languages: [English](README.md) | [KR](README.ko.md).*
 
